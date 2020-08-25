@@ -2,3 +2,18 @@
 	path = panda_moveit_config
 	url = https://github.com/YannickRiou/panda_moveit_config
 	branch = kinetic-devel
+
+[submodule "moveit"]
+	path = moveit
+	branch = master
+	url = https://github.com/YannickRiou/moveit.git
+
+[submodule "moveit_msgs"]
+	path = moveit_msgs
+	branch = master
+	url = https://github.com/ros-planning/moveit_msgs
+
+[submodule "geometric_shapes"]
+	path = geometric_shapes
+	branch = master
+	url = https://github.com/ros-planning/geometric_shapes
