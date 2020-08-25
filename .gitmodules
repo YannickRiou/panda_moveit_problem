@@ -1,0 +1,4 @@
+[submodule "panda_moveit_config"]
+	path = panda_moveit_config
+	url = https://github.com/ros-planning/panda_moveit_config
+	branch = kinetic-devel
