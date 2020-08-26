@@ -15,5 +15,5 @@
 
 [submodule "geometric_shapes"]
 	path = geometric_shapes
-	branch = master
-	url = https://github.com/ros-planning/geometric_shapes
+	branch = melodic-devel
+	url = https://github.com/ros-planning/geometric_shapes.git
